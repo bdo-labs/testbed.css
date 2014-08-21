@@ -1,0 +1,60 @@
+
+/*
+ * Reset.
+ */
+
+@import "node_modules/normalize.css/normalize.css";
+
+/*
+ * Typography.
+ */
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: rgb(130,130,130);
+  font-family: Helvetica Neue, Helvetica, Sans-serif;
+  font-size: 1.4em;
+}
+
+/*
+ * Layout.
+ */
+
+body {
+  box-sizing: border-box;
+}
+main {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10em;
+  padding-top: 10em;
+  max-width: 50em;
+}
+
+pre, code {
+  border-radius: .2em;
+}
+pre {
+  padding: .5em 1em;
+}
+code {
+  padding: .1em .3em;
+}
+
+/*
+ * Theme.
+ */
+
+code {
+  background-color: rgb(240,240,240);
+}
+
+pre, pre code {
+  background-color: rgb(170,220,190);
+  color: rgb(80,140,110);
+}
+
+

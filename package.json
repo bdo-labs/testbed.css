@@ -1,0 +1,12 @@
+{
+  "name": "testbed.css",
+  "version": "0.0.0",
+  "description": "Styles to use for testing components",
+  "author": "Henrik Kjelsberg <henrik.kjelsberg@bdo.no>",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.1"
+  }
+}
