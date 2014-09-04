@@ -3,7 +3,7 @@
  * Reset.
  */
 
-@import "node_modules/normalize.css/normalize.css";
+@import "necolas/normalize.css@master";
 
 /*
  * Typography.

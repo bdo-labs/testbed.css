@@ -1,0 +1,6 @@
+{
+  "name": "testbed.css",
+  "repo": "bdo-labs/testbed.css",
+  "version": "0.0.0",
+  "styles": ["lib/index.css"]
+}
